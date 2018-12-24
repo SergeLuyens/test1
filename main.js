@@ -3,7 +3,7 @@ function sum(a, b) {
 }
 
 function myFunc2(params) {
-  alert("This is cool!")
+  alert("This is cool2!")
 }
 
 sum
